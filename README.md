@@ -8,3 +8,5 @@ lastly host it elsewhere
 Demo or example https://t.me/chatgpt4vbot
 
 Support and any Issue https://t.me/neuralp
+
+if it fails to responsed pass your own cookie files after logging in to chat.theb.ai in helpers gpt file
