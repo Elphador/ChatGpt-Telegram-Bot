@@ -5,6 +5,6 @@ pass your Bot Token from t.me/botfather and ,Api ID and Api Hash from my.telegra
 you do not have to provide any resource from openai
 
 lastly host it elsewhere 
-Demo or example t.me/chatgpt4vbot
+Demo or example https://t.me/chatgpt4vbot
 
-Support and any Issue t.me/neuralp
+Support and any Issue https://t.me/neuralp
