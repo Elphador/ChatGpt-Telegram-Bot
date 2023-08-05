@@ -38,7 +38,7 @@ def gpt (text):
     'req_rand':fool,
     }
     json_data = {
-    'text': 'huh',
+    'text':text,
     'category': '5be3c43f8bc740b792cce30cebdd861c',
     'model': '12cf0aaece3f4c27846aeb9c852dc0f9',
     'model_params': {
@@ -47,6 +47,5 @@ def gpt (text):
     'topic_id': None
     }
     response = requests.post('https://beta.theb.ai/api/conversation', params=params, cookies=cookies, headers=headers, json=json_data)
-    print(response.text)
     resp = json.loads(response.text.splitlines()[-5].split(':',1)[-1])
     return (resp['content'])
