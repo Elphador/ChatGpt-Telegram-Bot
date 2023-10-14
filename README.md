@@ -5,7 +5,7 @@ pass your Bot Token from https://t.me/botfather and ,Api ID and Api Hash from my
 you do not have to provide any resource from openai
 
 lastly host it elsewhere 
-Demo or example https://t.me/chatgpt4vbot
+Demo or example https://t.me/ChatGtp_proBot
 
 Support and any Issue https://t.me/neuralp
 
