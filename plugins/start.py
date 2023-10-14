@@ -1,4 +1,4 @@
-from pyrogram import Ckient as neural ,filters
+from pyrogram import Client as neural ,filters
 from helpers.buttons import *
 @neural.on_message( filters.command("start"))
 async def start(bot, msg):
